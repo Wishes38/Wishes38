@@ -2,8 +2,6 @@
 
 🎓 I graduated from **Isparta University of Applied Sciences**, Faculty of Technology, Computer Engineering Department with a **GPA of 3.21**.
 
-💻 I'm a passionate developer focusing on **mobile and backend development**, and constantly improving myself with real-world projects and training programs.
-
 ---
 
 ### 🚀 Skills & Experience
