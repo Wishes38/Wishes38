@@ -22,7 +22,7 @@
 
 ### 📫 How to reach me:
 - Email: **serkanozdemir38080@gmail.com**
-- LinkedIn: [[linkedin.com/in/serkanozdemirse](https://linkedin.com/in/serkanozdemirse)](https://www.linkedin.com/in/serkan-%C3%B6zdemir/)
+- LinkedIn: [https://linkedin.com/in/serkan-özdemir]
 
 ---
 
