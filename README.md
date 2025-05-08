@@ -44,11 +44,3 @@
 ![LLMs](https://img.shields.io/badge/-Large%20Language%20Models-8E24AA?logo=openai&logoColor=white&style=flat-square)
 ![AI](https://img.shields.io/badge/-Artificial%20Intelligence-00ACC1?logo=ai&logoColor=white&style=flat-square)
 ---
-
-### 📈 GitHub Stats
-
-<div align="center" style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
-  <img src="https://github-readme-stats.vercel.app/api?username=wishes38&show_icons=true&theme=github_dark" style="max-height: 200px;" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=wishes38&theme=github-dark&hide_border=false" style="max-height: 200px;" />
-</div>
-
